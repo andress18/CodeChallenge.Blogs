@@ -7,10 +7,14 @@ This Rest API consume gnews API, and get a json with info about Posts
 
 ## Installation
 Download or clone repository.
-```Visual studio 2022
-Open project and Press F5 and you are done.
-```
 
+## Visual studio 2022
+
+Open project and Press F5 and you are done.
+
+
+## CMD
+execute the command
 ```cmd
-execute the command "dotnet run" 
+dotnet run
 ```
